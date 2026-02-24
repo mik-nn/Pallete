@@ -1,0 +1,7 @@
+numpy
+colour
+numba
+scikit-learn
+matplotlib
+Pillow
+PyYAML
